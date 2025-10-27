@@ -12,7 +12,7 @@
             low = 0
             high = n-1  => last index
 
-        -> Split the size in half (middle point) & check wether the given number is grater or smaller to the middle point, & search on left or right side accordingly...
+        -> Split the size in half (middle point) & check wether the given number is greater or smaller to the middle point, & search on left or right side accordingly...
         -> Example: 
 
             [3, 4, 6, 7, 9, 12, 16, 17]     -> Sorted data
